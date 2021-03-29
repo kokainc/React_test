@@ -1,0 +1,8 @@
+NPM Commands used
+
+npx create-react-app ./
+npm install axios      
+npm build node-sass
+npm install @material-ui/core  
+npm install @material-ui/core @material-ui
+npx start
